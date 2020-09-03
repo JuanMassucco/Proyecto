@@ -5,6 +5,7 @@ Aplicación para la cátedra de Proyecto de Software de la Facultad de Informát
 Codigo interpretado
 
 	https://grupo11.proyecto2019.linti.unlp.edu.ar/home
+	usuaruio  master :juan contraceña juan
 
 Iniciar ambiente
 
